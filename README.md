@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on building scalable, high-performance intelligent systems and designing robust backend architectures.
+<br>👯 I’m looking to collaborate on innovative open-source projects, especially those pushing the boundaries in AI/ML, real-time data, or distributed systems.
+<br>🤝 I’m looking for help with tackling complex architectural challenges and exploring new paradigms in cloud-native development.
+<br>🌱 I’m currently learning more about advanced machine learning algorithms for predictive analytics and event-driven architectures.
+<br>💬 Ask me about Domain-Driven Design (DDD), Clean Architecture, .NET ecosystem development, or building resilient, data-intensive applications.
+<br>⚡ Fun fact: I once debugged a critical system issue by staring at the logs for 3 hours, only to find a missing semicolon!
 
 
 # 💻 Tech Stack:
