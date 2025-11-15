@@ -24,3 +24,8 @@
 [![](https://visitcount.itsvg.in/api?id=opselon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<audio controls autoplay loop>
+  <source src="https://YOUR_DOMAIN/YOUR_MP3_FILE.mp3" type="audio/mpeg">
+</audio>
