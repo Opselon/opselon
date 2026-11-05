@@ -1,31 +1,174 @@
-# 💫 About Me:
-🔭 I’m currently working on building scalable, high-performance intelligent systems and designing robust backend architectures.
-<br>👯 I’m looking to collaborate on innovative open-source projects, especially those pushing the boundaries in AI/ML, real-time data, or distributed systems.
-<br>🤝 I’m looking for help with tackling complex architectural challenges and exploring new paradigms in cloud-native development.
-<br>🌱 I’m currently learning more about advanced machine learning algorithms for predictive analytics and event-driven architectures.
-<br>💬 Ask me about Domain-Driven Design (DDD), Clean Architecture, .NET ecosystem development, or building resilient, data-intensive applications.
-<br>⚡ Fun fact: I once debugged a critical system issue by staring at the logs for 3 hours, only to find a missing semicolon!
+<div align="center" width="100%">
+<div align="center">
+
+<!-- ANIMATED HEADER BANNER -->
+![header](https://itextglow.vercel.app/api/banner?text=OPSELON&sub=%5B.NET-AIML-Quant-Systems%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=62&subsize=16&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
 
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=opselon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=opselon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=opselon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" /> *Architecting **intelligent, high-performance systems** — .NET · AI/ML · Quant · Edge.*<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" alt="Growing Heart" width="25" height="25" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=opselon&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=opselon&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<audio controls autoplay loop>
-  <source src="https://YOUR_DOMAIN/YOUR_MP3_FILE.mp3" type="audio/mpeg">
-</audio>
+<!-- TYPING ANIMATION -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="50" height="50" /> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=B550FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+profile!+%F0%9F%91%8B;AI+%26+.NET+Systems+Architect+%F0%9F%9A%80;Building+quant+trading+engines+%F0%9F%93%88;Clean+Architecture+%26+DDD+advocate+%F0%9F%8F%9B%EF%B8%8F;Always+learning+new+things+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+
+<br/>
+
+<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=Opselon&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Opselon?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Medium-Light%20Skin%20Tone.png" alt="Construction Worker" width="50" height="50" /> About Me
+
+<div align="left">
+
+```yaml
+name        : Capsizer
+alias       : Opselon
+company     : Piron
+role        : [ .NET Architect, AI/ML Engineer, Quant Developer ]
+interests   : [ AI/ML, Real-Time Systems, Distributed Architecture, Trading ]
+stack       : [ C#, .NET, Python, TypeScript, Go ]
+status      : Architecting intelligent, high-performance systems 🛠️
+```
+</div>
+
+> *"Complexity is the enemy of reliability — architect it away."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="50" height="50" /> Tech Stack
+
+
+<div align="center">
+
+| # | Category | Icons |
+|---|---|---|
+| 🔤 | **Languages** | [![](https://skillicons.dev/icons?i=cs,python,js,ts,go,kotlin)](#) |
+| 🎨 | **Frontend** | [![](https://skillicons.dev/icons?i=react,nextjs,tailwind,astro,html,css)](#) |
+| ⚙️ | **Backend & Data** | [![](https://skillicons.dev/icons?i=dotnet,fastapi,nodejs,postgres,redis,sqlite)](#) |
+| 🤖 | **AI / ML** | [![](https://skillicons.dev/icons?i=pytorch,anaconda)](#) |
+| 🚀 | **DevOps** | [![](https://skillicons.dev/icons?i=github,git,docker,linux,cloudflare,nginx)](#) |
+| 🧰 | **Tools** | [![](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,postman,vim,bash)](#) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" /> GitHub Stats
+
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Opselon&theme=tokyonight&border=00D4FF&ring=7C3AED&fire=FF6B6B&currStreakLabel=00D4FF)](https://git.io/streak-stats)
+
+
+<img src="https://github-readme-mwendwa.vercel.app/api?username=Opselon&show_icons=true&count_private=true&line_height=20&theme=tokyonight" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Opselon&layout=compact&count_private=true&theme=tokyonight" width="49%" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Opselon&theme=radical" alt="Most Commit Language" />
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="50" height="50" /> Featured Projects
+
+<div align="center">
+
+[![NexusTradingForexBot](https://github-readme-mwendwa.vercel.app/api/pin/?username=Opselon&repo=NexusTradingForexBot&theme=tokyonight)](https://github.com/Opselon/NexusTradingForexBot)
+[![ForexTradingBot](https://github-readme-mwendwa.vercel.app/api/pin/?username=Opselon&repo=ForexTradingBot&theme=tokyonight)](https://github.com/Opselon/ForexTradingBot)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="50" height="50" /> 3D Contribution Map
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+  </picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="50" height="50" /> Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Opselon&theme=radical" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Opselon&theme=radical" alt="Productive Time" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="50" height="50" /> Contribution Snake
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Opselon/Opselon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Opselon/Opselon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Opselon/Opselon/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="50" height="50" /> Contributions 
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Opselon/Opselon/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Opselon/Opselon/output-pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Opselon/Opselon/output-pacman/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="50" height="50" /> Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border=true" alt="Dev Quote" height="270" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Capxi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opcelon@gmail.com)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<div align="center">
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer"/>
+
+**⭐ If you like what you see, consider starring some repos!**
+
+</div>
+
+</div>
