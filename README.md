@@ -22,6 +22,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Opselon&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Opselon?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
 
+<!-- LIVE PLATFORM -->
+<br/>
+
+**[NSE Platform — subscribe.nexusverse.space](https://subscribe.nexusverse.space)** — rule-based XAUUSD & Forex scalping. Free model downloads, MT5 History import with an 8-engine review, and an AI chart lab.
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
